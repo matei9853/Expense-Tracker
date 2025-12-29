@@ -18,6 +18,7 @@ A much more developed project , keyboard driven C++ expense-tracker
 ## Screenshots
 
 ### Main menu
+```
 ========================================
            EXPENSE TRACKER
 ========================================
@@ -30,8 +31,9 @@ A much more developed project , keyboard driven C++ expense-tracker
     Exit
 
 ========================================
-
+```
 ### Add Expense
+```
 ========================================
               New expense !
 ========================================
@@ -52,8 +54,9 @@ DATE of the expense (YYYY-MM-DD) :
 ========================================
 
 Press any key to go back to the menu....
-
+```
 ### View Expenses
+```
               EXPENSES MADE!
 ========================================
  CATEGORY ------- AMOUNT ---------- DATE
@@ -64,8 +67,9 @@ Press any key to go back to the menu....
 
 ========================================
 Press any key to go back to the menu....
-
+```
 ### Expense Chart
+```
 ================= EXPENSE DASHBOARD =======================
             EXPENSE TREND FOR : 2023
 
@@ -85,7 +89,7 @@ Lowest month     : 50
 ========================================
 
 Press any key to go back to the menu....
-
+```
 ## Things To-Do
 I know the project is not perfect but it was very usefull in my learning process , here are some things that i could have done better :
 - better input validation
